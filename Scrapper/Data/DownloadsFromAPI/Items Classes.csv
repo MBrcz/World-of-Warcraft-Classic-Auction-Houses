@@ -1,0 +1,59 @@
+Item Class Name,Item Class ID,Item Subclass Name,Item Subclass ID
+0,Consumable,Consumable,0_0
+1,Container,Bag,1_0
+1,Container,Soul Bag,1_1
+1,Container,Herb Bag,1_2
+1,Container,Enchanting Bag,1_3
+1,Container,Engineering Bag,1_4
+2,Weapon,Axe,2_0
+2,Weapon,Axe,2_1
+2,Weapon,Bow,2_2
+2,Weapon,Gun,2_3
+2,Weapon,Mace,2_4
+2,Weapon,Mace,2_5
+2,Weapon,Polearm,2_6
+2,Weapon,Sword,2_7
+2,Weapon,Sword,2_8
+2,Weapon,Staff,2_10
+2,Weapon,Exotic,2_11
+2,Weapon,Exotic,2_12
+2,Weapon,Fist Weapon,2_13
+2,Weapon,Miscellaneous,2_14
+2,Weapon,Dagger,2_15
+2,Weapon,Thrown,2_16
+2,Weapon,Spear,2_17
+2,Weapon,Crossbow,2_18
+2,Weapon,Wand,2_19
+2,Weapon,Fishing Pole,2_20
+4,Armor,Miscellaneous,4_0
+4,Armor,Cloth,4_1
+4,Armor,Leather,4_2
+4,Armor,Mail,4_3
+4,Armor,Plate,4_4
+4,Armor,Shield,4_6
+4,Armor,Libram,4_7
+4,Armor,Idol,4_8
+4,Armor,Totem,4_9
+5,Reagent,Reagent,5_0
+6,Projectile,Arrow,6_2
+6,Projectile,Bullet,6_3
+7,Trade Goods,Trade Goods,7_0
+7,Trade Goods,Parts,7_1
+7,Trade Goods,Explosives,7_2
+7,Trade Goods,Devices,7_3
+9,Recipe,Book,9_0
+9,Recipe,Leatherworking,9_1
+9,Recipe,Tailoring,9_2
+9,Recipe,Engineering,9_3
+9,Recipe,Blacksmithing,9_4
+9,Recipe,Cooking,9_5
+9,Recipe,Alchemy,9_6
+9,Recipe,First Aid,9_7
+9,Recipe,Enchanting,9_8
+9,Recipe,Fishing,9_9
+11,Quiver,Quiver,11_2
+11,Quiver,Ammo Pouch,11_3
+12,Quest,Quest,12_0
+13,Key,Key,13_0
+13,Key,Lockpick,13_1
+15,Miscellaneous,Junk,15_0
