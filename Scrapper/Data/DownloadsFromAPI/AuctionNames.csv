@@ -1,4 +1,4 @@
-Auction Id,Auction Name
-2,Alliance
-6,Horde
-7,Blackwater
+Auction Id,Auction Name,Auction Origin URL
+2,Alliance,https://wowpedia.fandom.com/wiki/Alliance
+6,Horde,https://wowpedia.fandom.com/wiki/Horde
+7,Blackwater,https://wowpedia.fandom.com/wiki/Blackwater_Raiders
