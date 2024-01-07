@@ -36,11 +36,11 @@ HOW TO GET A DATA?
 	For instance, typing: "call.py servers" will result in a table that gets name of all servers and realms.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DATA SET.
-	Data for the project is mostly taken from above Command Line Application. One can find it in directory: ~/Scrapper/Data/DownloadsFromAPI/* . Some of the files are made by hand, like AuctionNames.csv.
+	Data for the project is mostly taken from above Command Line Application. One can find it in directory: ~/Scrapper/Data/DownloadsFromAPI/* . Some of the files are made by hand, like AuctionNames.csv, but most are downloaded.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Report.
-	Report is currently durning construction. In a directory ~/Report one can find .pbix and .pdf which presents the current state of report (for day 02.01.2024).
+	Report is currently durning construction. In a directory ~/Report one can find .pbix and .pdf which presents the current state of report (for day 08.01.2024).
 	To be continued...
 	
 	Used technologies:
