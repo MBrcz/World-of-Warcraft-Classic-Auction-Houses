@@ -138,6 +138,7 @@ def download_auction_data_from_web() -> None:
             while not retry_loop:
                 try:
                     auction_content = Scrapper.open_blizzard_api_website(auction['key']['href'])
+                    sleep(0.5)
                     auction_content = auction_content['auctions']
                     df = pd.json_normalize(data=auction_content)
                     df = format_auction_dataframe_columns(df)

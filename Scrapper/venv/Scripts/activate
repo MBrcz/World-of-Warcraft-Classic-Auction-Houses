@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\directory\Wow Auction House Dashboard\Scrapper\venv"
+VIRTUAL_ENV="F:\directory\World of Warcraft Classic Auction Houses\Scrapper\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

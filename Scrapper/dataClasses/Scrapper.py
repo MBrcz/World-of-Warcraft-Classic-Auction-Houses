@@ -15,8 +15,8 @@ class Scrapper:
     This static class holds all methods and parameters that are related for getting the data from Blizzard API.
     """
     
-    _CLIENT_ID: str = "PLACE YOUR CLIENT ID HERRE"
-    _CLIENT_SECRET: str = "PLACE YOUR CLIENT SECRET HERE"
+    _CLIENT_ID: str = "df85d9a7ab2c46dc87fcebff0ce515b2"
+    _CLIENT_SECRET: str = "9RQ60WNPn8b9nM1250fEML6OQVmNvtFn"
 
     ACCESS_TOKEN: str = None  # VARIABLE TO CHANGE, unique to the user
     NAMESPACE: str = None
