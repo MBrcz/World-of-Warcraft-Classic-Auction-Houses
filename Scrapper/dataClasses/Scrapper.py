@@ -4,6 +4,8 @@ from requests import post, get
 # In-built Libraries
 import re
 
+from enums.__GLOBAL import GLOBAL
+
 """
 This module holds scrapper dedicated to use against Blizzard Vanilla API.
 See more: https://develop.battle.net/documentation/world-of-warcraft-classic/game-data-apis
@@ -15,8 +17,8 @@ class Scrapper:
     This static class holds all methods and parameters that are related for getting the data from Blizzard API.
     """
     
-    _CLIENT_ID: str = ""
-    _CLIENT_SECRET: str = ""
+    _CLIENT_ID: str = GLOBAL.CLIENT_ID.value
+    _CLIENT_SECRET: str = GLOBAL.CLIENT_SECRET.value
 
     ACCESS_TOKEN: str = None  # VARIABLE TO CHANGE, unique to the user
     NAMESPACE: str = None
